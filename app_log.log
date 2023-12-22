@@ -1,0 +1,20 @@
+2023-10-17 20:44:13,675 - deepl - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:44:13,994 - deepl - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:44:23,897 - deepl - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:44:24,064 - deepl - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:44:24,695 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.3)
+2023-10-17 20:44:33,551 - deepl - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:44:33,721 - deepl - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:44:43,078 - deepl - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:44:43,248 - deepl - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:44:44,003 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.3)
+2023-10-17 20:45:10,072 - deepl - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:45:10,242 - deepl - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:45:20,347 - deepl - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:45:20,525 - deepl - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:45:21,068 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.3)
+2023-10-17 20:45:31,880 - deepl - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:45:32,048 - deepl - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:45:42,582 - deepl - INFO - Request to DeepL API method=POST url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:45:42,748 - deepl - INFO - DeepL API response status_code=200 url=https://api-free.deepl.com/v2/translate
+2023-10-17 20:45:43,702 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.3)
